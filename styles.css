@@ -18,10 +18,12 @@ header {
 .title {
     color: hsl(234, 12%, 34%);
     font-weight: 200;
+    font-size: calc(1.2rem + 1vw);
 }
 
 .subtitle {
-    color: hsl(234, 12%, 34%)
+    color: hsl(234, 12%, 34%);
+    font-size: calc(1.2rem + 1vw);
 }
 
 .description {
